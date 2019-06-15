@@ -1,0 +1,29 @@
+body{
+    background-image: url("jonathan-borba-1364439-unsplash.png");
+  
+   
+}
+#contact{
+    text-align: left;
+}
+#film{
+   text-align: right; 
+}
+#commercials{
+    text-align: center;
+}
+#jack{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+
+.navbar1{
+    margin-top: 46px;
+    font-size: 15px;
+    color: white;
+    cursor:pointer;
+}
